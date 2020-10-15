@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](https://github-readme-stats.vercel.app/api?username=condorheroblog&theme=vision-friendly-dark&show_icons=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=condorheroblog&layout=compact&theme=blue-green)
+![](https://github-readme-stats.vercel.app/api?username=condorheroblog&theme=default&show_icons=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=condorheroblog&layout=compact&theme=default)
