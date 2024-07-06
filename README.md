@@ -8,9 +8,12 @@ I'm working on:<br />
 
 ![](https://img.shields.io/badge/-React-skyblue) ![](https://img.shields.io/badge/-Vue-brightgreen)  ![](https://img.shields.io/badge/-JavaScript-red) ![](https://img.shields.io/badge/-TypeScript-blue) ![](https://img.shields.io/badge/-Node.js-yellow)
 
-### 寻找工作
+### Working experience
 
-目前（2024-01）在一家公司从事「前端开发工作」工作近四年，技术栈主要以 React 为主，求职地是**上海**，你可以查看我的[在线简历](https://condorheroblog.github.io/resume/) 了解我。
+1. [Cardinal Operations](https://shanshu.ai/) - 2020.04.28 ~ 2024.01.31
+2. [sustainaBo](https://boxutech.com/) - 2024.07.01 ～ now
+
+[Resume](https://condorheroblog.github.io/resume/)
 
 ### My motto
 
