@@ -10,10 +10,13 @@ I'm working on:<br />
 
 ### Working experience
 
-1. [Cardinal Operations](https://shanshu.ai/) - 2020.04.28 ~ 2024.01.31
-2. [sustainaBo](https://boxutech.com/) - 2024.07.01 ～ now
+| Company                                    | Duration                |
+|--------------------------------------------|-------------------------|
+| [Gangtise](https://www.gangtise.com/)      | 2025.10.24 ~ now        |
+| [sustainaBo](https://boxutech.com/)        | 2024.07.01 ~ 2025.10.14 |
+| [Cardinal Operations](https://shanshu.ai/) | 2020.04.28 ~ 2024.01.31 |
 
-[Resume](https://condorheroblog.github.io/resume/)
+> 🚀 [Resume](https://condorheroblog.github.io/resume/) - Check out my full career journey & skill highlights!
 
 ### My motto
 
